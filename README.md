@@ -11,7 +11,7 @@
   
  
   ## Description 📝
-  An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list
+ This is to  build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline. 
 
   ## Installation 🔎
 
